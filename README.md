@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-**I’m Kerem Aydemir and I want to be a Frontend Web developer. I’m 23 year old student at METU PETE. I’m currently living in Tekirdağ/Turkiye but looking forward to move to Istanbul or Ankara**
+**I’m Kerem Aydemir and I want to be a Frontend Web developer. I’m 23 year old senior student at METU PETE. I’m currently living in Tekirdağ/Turkiye but looking forward to move to İstanbul or Ankara**
 
-- 🌱 I’m currently building Vite + React + TypeScript + Express + Mongodb application, which is relatively big.
-- 🤔 My future plans are learning Storybook, Vitest + Testing Library and AWS
+- 🌱 Tech stack that I love:  Vite + React + TypeScript + TailwindCSS + Express + Mongodb.
+- 🤔 My future intentions to learn: Storybook, Vitest + Testing Library, Animation Library (Framer Motion) and AWS
 - 📫 How to reach me: [Links](https://linktr.ee/keremaydemir)
+
